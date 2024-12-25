@@ -2,7 +2,7 @@
 
 **Co-Founder of DigitalBlaze | Game Designer & Animator**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kullanıcı-adın&theme=onedark&row=1&column=6)](https://github.com/username)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kullanıcı-adın&theme=onedark&row=1&column=6)](https://github.com/bugeex)
 
 ---
 
