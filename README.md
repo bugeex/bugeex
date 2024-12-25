@@ -24,9 +24,10 @@
 ---
 
 ## GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?bugeex=kullanıcı-adın&theme=onedark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bugeex&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?bugeex=kullanıcı-adın&show_icons=true&theme=onedark&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?bugeex=kullanıcı-adın&label=Profile%20Views&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=bugeex&style=flat-square&color=blue)
+
 
 ---
 
