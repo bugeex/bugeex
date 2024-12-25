@@ -2,7 +2,8 @@
 
 **Co-Founder of DigitalBlaze | Game Designer & Animator**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kullanıcı-adın&theme=onedark&row=1&column=6)](https://github.com/bugeex)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6)](https://github.com/bugeex)
+
 
 ---
 
@@ -22,9 +23,9 @@
 ---
 
 ## GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kullanıcı-adın&theme=onedark&hide_border=true)](https://git.io/streak-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanıcı-adın&show_icons=true&theme=onedark&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=kullanıcı-adın&label=Profile%20Views&color=brightgreen&style=flat)
+[![GitHub Streak](https://streak-stats.demolab.com/?bugeex=kullanıcı-adın&theme=onedark&hide_border=true)](https://git.io/streak-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?bugeex=kullanıcı-adın&show_icons=true&theme=onedark&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?bugeex=kullanıcı-adın&label=Profile%20Views&color=brightgreen&style=flat)
 
 ---
 
@@ -34,5 +35,4 @@
 
 ---
 
-## Popular Repositories
-- [**bugeex**](https://github.com/username/bugeex) 🔗 Public
+
