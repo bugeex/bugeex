@@ -25,7 +25,7 @@
 
 ## GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=bugeex&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?bugeex=kullanıcı-adın&show_icons=true&theme=onedark&hide_border=true)  
+[![Buğra İlker Erdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark)](https://github.com/bugeex)
 ![](https://komarev.com/ghpvc/?username=bugeex&style=flat-square&color=blue)
 
 
