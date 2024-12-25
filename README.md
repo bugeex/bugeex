@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-- 🎮 I’m currently working at [DigitalBlaze] "Somnium")
+- 🎮 I’m currently working at DigitalBlaze "Somnium")
 - 🌟 Specialized in **Game Design and Animation**
-- 🛠 Currently learning **Unreal Engine**, and **Advanced Animation Techniques**
+- 🛠 Currently learning **C++**, and **Advanced Animation Techniques**
 - 📧 Reach me via **[bugra-erdan@hotmail.com](mailto:bugra-erdan@hotmail.com)**
 
 ---
@@ -19,6 +19,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-313131?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001F3F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
