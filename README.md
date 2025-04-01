@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-- 🎮 I’m currently working at DigitalBlaze "Somnium")
+- 🎮 I’m currently working at DigitalBlaze "???")
 - 🌟 Specialized in **Game Design and Animation**
-- 🛠 Currently learning **C++**, and **Advanced Animation Techniques**
+- 🛠 Currently learning **Level Design**, and **Advanced Animation Techniques**
 - 📧 Reach me via **[bugra-erdan@hotmail.com](mailto:bugra-erdan@hotmail.com)**
 
 ---
