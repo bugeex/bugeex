@@ -1,6 +1,6 @@
 # Hi 👋, I'm Buğra İlker ERDAN
 
-**Co-Founder of DigitalBlaze | Game Designer & Animator**
+**Co-Founder of CRYBION | Level Designer & Game Designer**
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6)](https://github.com/bugeex)
 
@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-- 🎮 I’m currently working at DigitalBlaze "???")
-- 🌟 Specialized in **Game Design and Animation**
-- 🛠 Currently learning **Level Design**, and **Advanced Animation Techniques**
+- 🎮 I’m currently working at CRYBION "???")
+- 🌟 Specialized in **Level Design and Animation**
+- 🛠 Currently learning **3D Modeling**, and **Advanced Animation Techniques**
 - 📧 Reach me via **[bugra-erdan@hotmail.com](mailto:bugra-erdan@hotmail.com)**
 
 ---
