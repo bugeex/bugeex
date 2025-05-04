@@ -1,6 +1,6 @@
 # Hi 👋, I'm Buğra İlker ERDAN
 
-**Co-Founder of CRYBION | Level Designer & Game Designer**
+**Co-Founder of CRYBION | Level Designer & 3D Designer**
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6)](https://github.com/bugeex)
 
@@ -8,10 +8,10 @@
 ---
 
 ## About Me
-- 🎮 I’m currently working at CRYBION "???")
-- 🌟 Specialized in **Level Design and Animation**
+- 🎮 I’m currently working at CRYBION "MrChuckles")
+- 🌟 Specialized in **Level Design and 3D Modeling**
 - 🛠 Currently learning **3D Modeling**, and **Advanced Animation Techniques**
-- 📧 Reach me via **[bugra-erdan@hotmail.com](mailto:bugra-erdan@hotmail.com)**
+- 📧 Reach me via **[bugra-erdan@hotmail.com](mailto:bugrailkermiyim@hotmail.com)**
 
 ---
 
