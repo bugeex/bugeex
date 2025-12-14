@@ -1,6 +1,6 @@
 # Hi 👋, I'm Buğra İlker ERDAN
 
-**Indie Game Dev | Level Designer & 3D Designer**
+**Indie Game Dev | Level Designer & Technical Artist**
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6)](https://github.com/bugeex)
 
