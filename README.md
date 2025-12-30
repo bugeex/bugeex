@@ -1,39 +1,58 @@
-# Hi 👋, I'm Buğra İlker ERDAN
+# <img src="https://media.giphy.com/media/hvRJCLzraazFAvHqP7/giphy.gif" width="35"> Hi, I'm Buğra İlker ERDAN
 
-**Indie Game Dev | Level Designer & Technical Artist**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Indie+Game+Developer;Level+Designer+%26+Technical+Artist;Learning+Advanced+Animation;Unreal+Engine+Enthusiast" alt="Typing SVG" />
+</p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6)](https://github.com/bugeex)
-
-![](https://komarev.com/ghpvc/?username=bugeex&style=flat-square&color=blue)
 ---
 
-## About Me
+### 💫 About Me
+<p align="left">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark&hide_border=true" alt="Buğra's Stats" />
+
 - 🌟 Specialized in **Level Design and 3D Modeling**
-- 🛠 Currently learning **3D Modeling**, and **Advanced Animation Techniques**
-- 📧 Reach me via **[bugrailkermiyim@hotmail.com](mailto:bugrailkermiyim@hotmail.com)**
+- 🛠 Currently mastering **3D Modeling** and **Advanced Animation Techniques**
+- 📧 Reach me via: **[bugrailkermiyim@hotmail.com](mailto:bugrailkermiyim@hotmail.com)**
+- 🚀 Always looking for creative ways to merge art with logic.
+</p>
+
+<br/>
 
 ---
 
-## Technologies & Tools  
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-313131?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001F3F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+### 🛠 Technologies & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,blender,ps,cpp,cs,git,visualstudio&theme=dark" />
+  </a>
+</p>
 
 ---
 
-## GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bugeex&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Buğra İlker Erdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark)](https://github.com/bugeex)
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6&no-frame=true" alt="Trophies" />
+</div>
 
-
-
----
-
-## Connect With Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buğra-ilker-erdan-20a638252/)  
-[![X Badge](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/bugexdev)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bugeex&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
+### 🐍 My Contributions Map
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bugeex/bugeex/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/buğra-ilker-erdan-20a638252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/bugexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=bugeex&style=flat-square&color=blue" alt="Views" />
+</p>
