@@ -7,16 +7,10 @@
 ---
 
 ### 💫 About Me
-<p align="left">
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark&hide_border=true" alt="Buğra's Stats" />
-
 - 🌟 Specialized in **Level Design and 3D Modeling**
 - 🛠 Currently mastering **3D Modeling** and **Advanced Animation Techniques**
 - 📧 Reach me via: **[bugrailkermiyim@hotmail.com](mailto:bugrailkermiyim@hotmail.com)**
 - 🚀 Always looking for creative ways to merge art with logic.
-</p>
-
-<br/>
 
 ---
 
@@ -30,17 +24,18 @@
 ---
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&row=1&column=6&no-frame=true" alt="Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bugeex&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark&hide_border=false" alt="Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bugeex&theme=onedark&hide_border=false" alt="Streak" />
 </p>
 
 ---
 
-### 🐍 My Contributions Map
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/bugeex/bugeex/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
@@ -49,8 +44,12 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/buğra-ilker-erdan-20a638252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/bugexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/buğra-ilker-erdan-20a638252/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/bugexdev" target="blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 <p align="right">
