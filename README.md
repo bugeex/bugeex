@@ -24,20 +24,14 @@
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bugeex&theme=onedark&column=4&margin-w=15&no-background=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark&hide_border=false" alt="Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=bugeex&theme=onedark&hide_border=false" alt="Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bugeex/bugeex/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bugeex&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bugeex&theme=onedark&hide_border=true&background=0D1117" alt="Streak" />
 </p>
 
 ---
